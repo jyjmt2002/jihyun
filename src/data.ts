@@ -90,7 +90,7 @@ export const SOCIAL_GRID = [
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/motka2_Colorway_A_copy-Photoroom_copy.png?v=1776068249" },
   { url: "https://scontent.cdninstagram.com/v/t51.82787-15/702876779_17966107569098691_870876079691186410_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=EpLwXSI7-RkQ7kNvwFCd3nR&_nc_oc=AdqlyMOQ2Ppq0hchkuci_hMdRIT3OWSJQ9Ng7blS7zONvLyf6DrgFtr_hBqU2VtKqVE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0xyh0OtN2Sry7aml-p57-A&_nc_tpa=Q5bMBQGlo6XBkCwthA3BAh65jujhcjXrrahwLhNrYj9hkP5xvs2m30kuC9jRjdbkRehuwh5kZd9aBz0o&oh=00_Af8U2O7SCocckVbHUvR86EW1EpKQNirHAAn0DQFw0zcjQg&oe=6A303E56" },
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/I_1_f74ab495-0af0-40b0-90bc-12daf3b9174b.png?v=1777613741" },
-  { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/G_1_895dcb77-e857-40dd-b49f-1d251f65470a.png?v=1777613824" },
+  { url: "https://scontent.cdninstagram.com/v/t51.82787-15/707210077_17967197811098691_1753255061871224256_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=CMs-1xy7t80Q7kNvwGS7BqU&_nc_oc=Adov9o2n4ngXlc5cKh5nf8TVYmzqtC8y7vMNzitFtBx3RsQhjyffHwhCEGISav7YN-c&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0xyh0OtN2Sry7aml-p57-A&_nc_tpa=Q5bMBQEQA0NDmErKq505hpPvmDo4PpMIwupCBNEN8XGT74ITYQz-RbMCMmrOxwVuLgL2FREaGMtB6v1_&oh=00_Af_EyawyvBaahUHSijkKC2ASOiWir-xtqjhFWEMZHdmLkA&oe=6A3043A0" },
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/DSC04884.jpg?v=1765523103" }
 ];
 
