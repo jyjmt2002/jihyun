@@ -721,7 +721,7 @@ export default function App() {
           <div className="w-full max-w-2xl bg-white border-3 border-black p-3 md:p-4 y2k-shadow-lg flex flex-col items-center relative">
             <div className="w-full h-[320px] md:h-[480px] overflow-hidden border-2 border-black bg-purple-50 flex justify-center items-center relative">
               <img 
-                src={lookbookImages[4] || "https://193igusa.com/cdn/shop/files/web_c7e31053-3e5c-4a6a-8fdd-e5eb1efe278a.jpg?v=1777533500"}
+                src={heroImage || "https://193igusa.com/cdn/shop/files/web_c7e31053-3e5c-4a6a-8fdd-e5eb1efe278a.jpg?v=1777533500"}
                 alt="26 SS Collection Main Model" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
