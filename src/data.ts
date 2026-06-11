@@ -86,9 +86,9 @@ export const LOOKBOOK_IMAGES = [
 export const SOCIAL_GRID = [
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/E_1_copy.png?v=1777613894" },
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/Photoroom_002_20251125_001304copy.png?v=1764002713" },
-  { url: "https://193igusa.com/cdn/shop/files/5-Photoroom_4_03183315-ae94-4256-8879-d063ce64be95.png?v=1777525205&width=900" },
+  { url: "https://193igusa.com/cdn/shop/files/26ss_banner.jpg?v=1777536164&width=1024" },
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/motka2_Colorway_A_copy-Photoroom_copy.png?v=1776068249" },
-  { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/r_1_f6966ca0-32df-4cba-bad8-f99092476b7e.png?v=1777613524" },
+  { url: "https://scontent.cdninstagram.com/v/t51.82787-15/702876779_17966107569098691_870876079691186410_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=EpLwXSI7-RkQ7kNvwFCd3nR&_nc_oc=AdqlyMOQ2Ppq0hchkuci_hMdRIT3OWSJQ9Ng7blS7zONvLyf6DrgFtr_hBqU2VtKqVE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0xyh0OtN2Sry7aml-p57-A&_nc_tpa=Q5bMBQGlo6XBkCwthA3BAh65jujhcjXrrahwLhNrYj9hkP5xvs2m30kuC9jRjdbkRehuwh5kZd9aBz0o&oh=00_Af8U2O7SCocckVbHUvR86EW1EpKQNirHAAn0DQFw0zcjQg&oe=6A303E56" },
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/I_1_f74ab495-0af0-40b0-90bc-12daf3b9174b.png?v=1777613741" },
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/G_1_895dcb77-e857-40dd-b49f-1d251f65470a.png?v=1777613824" },
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/DSC04884.jpg?v=1765523103" }
