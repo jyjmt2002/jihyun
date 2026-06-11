@@ -86,7 +86,7 @@ export const LOOKBOOK_IMAGES = [
 export const SOCIAL_GRID = [
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/E_1_copy.png?v=1777613894" },
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/Photoroom_002_20251125_001304copy.png?v=1764002713" },
-  { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/Photoroom_000_20251125_001304copy.png?v=1764002713" },
+  { url: "https://193igusa.com/cdn/shop/files/5-Photoroom_4_03183315-ae94-4256-8879-d063ce64be95.png?v=1777525205&width=900" },
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/motka2_Colorway_A_copy-Photoroom_copy.png?v=1776068249" },
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/r_1_f6966ca0-32df-4cba-bad8-f99092476b7e.png?v=1777613524" },
   { url: "https://cdn.shopify.com/s/files/1/0825/4491/8821/files/I_1_f74ab495-0af0-40b0-90bc-12daf3b9174b.png?v=1777613741" },
