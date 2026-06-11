@@ -1,0 +1,6 @@
+{
+  "name": "Igusa Cyber-Gal Harajuku",
+  "description": "Dynamic responsive e-commerce web application replicating the iconic Y2K Harajuku Cyber-Gal aesthetic, inspired by 193igusa.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
