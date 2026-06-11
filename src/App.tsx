@@ -9,7 +9,7 @@ import {
   AnimatePresence 
 } from "motion/react";
 const logoImage = "https://193igusa.com/cdn/shop/files/nelogo_828ff3f3-8acf-431c-a30b-5c6b46acd0f8.png?v=1777452430&width=800";
-import heroImage from "./assets/images/uploaded_hero_image_1781072682088.png";
+const heroImage ="/images/hero.png";
 import { 
   Heart, 
   ShoppingBag, 
